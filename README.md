@@ -12,11 +12,11 @@ Access more content on the internet. Made so you can access important informatio
 
 ## 1)Download Locally: 
 **Google Chrome**
-2. Unzip the file and you should have a folder named `sn0x-sub-breaker`.
-3. In Chrome go to the extensions page (`chrome://extensions`).
-4. Enable Developer Mode.
-5. Drag the `dist` folder that is in `sn0x-sub-breaker` onto anywhere on the Chrome page to import it! (do not delete the folder afterwards)
-6. Enjoy!
+## 2. Unzip the file and you should have a folder named `sn0x-sub-breaker`.
+## 3. In Chrome go to the extensions page (`chrome://extensions`).
+## 4. Enable Developer Mode.
+## 5. Drag the `dist` folder that is in `sn0x-sub-breaker` onto anywhere on the Chrome page to import it! (do not delete the folder afterwards)
+## 6. Enjoy!
 
 ## Notes
 
